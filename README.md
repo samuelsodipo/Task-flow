@@ -44,3 +44,17 @@ Further testing and improvements are planned.
 Samuel Sodipo
 Computer Science Student
 Northumbria University
+
+## Application Screenshots
+
+### Create a Task
+![Create Task](screenshots/create-task.png)
+
+### Task Management Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Update and Edit Tasks
+![Edit Task](screenshots/edit-task.png)
+
+### Manage and Delete Tasks
+![Delete Task](screenshots/delete-task.png)
